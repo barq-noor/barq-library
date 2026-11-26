@@ -1,0 +1,66 @@
+{
+ "schema": 2,
+ "updatedAt": "2026-11-26T13:18:52Z",
+ "packs": [
+  {
+   "subject": "اللغة العربية",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/arabic-g10-s2.json",
+   "count": 39,
+   "v": 2,
+   "bytes": 228288,
+   "sha256": "bb96588ee176a68dc91c0cb2a7bb50229e4dfcd5bfa9b86f270ead900d5143b0",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "اللغة العربية",
+   "grade": "الصف الحادي عشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/arabic-g11-s1.json",
+   "count": 29,
+   "v": 1,
+   "bytes": 164079,
+   "sha256": "fe3d2577cf5040783051efcf781bd465e83204255f65dd04d7e24728203f7718",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "اللغة العربية",
+   "grade": "الصف الثامن",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/arabic-g8-s1.json",
+   "count": 22,
+   "v": 1,
+   "bytes": 112977,
+   "sha256": "730d33801daee064b1c220ec6c4d7d1ca8d557d691861239a01a965810594782",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "الدراسات الاجتماعية",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/social-g10-s2.json",
+   "count": 11,
+   "v": 1,
+   "bytes": 94609,
+   "sha256": "b3a1ac2a642962b9f06e0d3a669dfa8dc172d1bb613bbde582140ff1fa02eb35",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الدراسات الاجتماعية",
+   "grade": "الصف التاسع",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/social-g9-s1.json",
+   "count": 9,
+   "v": 1,
+   "bytes": 121492,
+   "sha256": "9cf06488ae3e5c212beb591e0a1fec1d1151bca47abe9111c3e1f4dd44d7166b",
+   "reviewed": true,
+   "images": "separate"
+  }
+ ]
+}
