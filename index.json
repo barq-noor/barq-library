@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-26T13:18:52Z",
+ "updatedAt": "2026-11-26T13:39:09Z",
  "packs": [
   {
    "subject": "اللغة العربية",
@@ -8,9 +8,9 @@
    "semester": "الفصل الدراسي الثاني",
    "file": "packs/arabic-g10-s2.json",
    "count": 39,
-   "v": 2,
-   "bytes": 228288,
-   "sha256": "bb96588ee176a68dc91c0cb2a7bb50229e4dfcd5bfa9b86f270ead900d5143b0",
+   "v": 1,
+   "bytes": 228289,
+   "sha256": "e9354602759aa3ca154180592e519483eead790fd651060b6d1d65f6dbc09bb8",
    "reviewed": true,
    "images": "none"
   },
@@ -21,8 +21,8 @@
    "file": "packs/arabic-g11-s1.json",
    "count": 29,
    "v": 1,
-   "bytes": 164079,
-   "sha256": "fe3d2577cf5040783051efcf781bd465e83204255f65dd04d7e24728203f7718",
+   "bytes": 164080,
+   "sha256": "0e1237800796d37f80cea31cb97b387085270545b7e4cbc82cba23792b1dd45f",
    "reviewed": true,
    "images": "none"
   },
@@ -33,8 +33,8 @@
    "file": "packs/arabic-g8-s1.json",
    "count": 22,
    "v": 1,
-   "bytes": 112977,
-   "sha256": "730d33801daee064b1c220ec6c4d7d1ca8d557d691861239a01a965810594782",
+   "bytes": 112978,
+   "sha256": "31a628bc661834466b15db0f4fb1183c0f1ce8f3cf6e4cc58a7c6e447402babc",
    "reviewed": true,
    "images": "none"
   },
@@ -45,8 +45,8 @@
    "file": "packs/social-g10-s2.json",
    "count": 11,
    "v": 1,
-   "bytes": 94609,
-   "sha256": "b3a1ac2a642962b9f06e0d3a669dfa8dc172d1bb613bbde582140ff1fa02eb35",
+   "bytes": 94610,
+   "sha256": "873cdd0468f57127522800ec732751dcd6423cd6f0dfbbb6611e904f35f305ea",
    "reviewed": true,
    "images": "separate"
   },
@@ -57,8 +57,8 @@
    "file": "packs/social-g9-s1.json",
    "count": 9,
    "v": 1,
-   "bytes": 121492,
-   "sha256": "9cf06488ae3e5c212beb591e0a1fec1d1151bca47abe9111c3e1f4dd44d7166b",
+   "bytes": 121493,
+   "sha256": "6defc63ebab80f49b2dd57b210f948012d4c4d3591b939bf0c9bc567971a9cf8",
    "reviewed": true,
    "images": "separate"
   }
