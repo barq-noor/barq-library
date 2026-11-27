@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T11:56:02Z",
+ "updatedAt": "2026-11-27T12:09:40Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -332,6 +332,30 @@
    "v": 1,
    "bytes": 81630,
    "sha256": "f72e6f9cc00b9f74f2338a01e4aaf466bc6b0bef57dc59c65f38df5ca55c8efb",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الفنون التشكيلية",
+   "grade": "الصف الثاني عشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/art-g12-s1.json",
+   "count": 15,
+   "v": 1,
+   "bytes": 136737,
+   "sha256": "40ac28f72b6ec6ec7575d65508303d6b24f7aab0ca62bdfb06b298ba6c2b76b0",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الفنون التشكيلية",
+   "grade": "الصف الثاني عشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/art-g12-s2.json",
+   "count": 14,
+   "v": 1,
+   "bytes": 118664,
+   "sha256": "1c1a5827e870512310f2b4450b8b27744a4b189daa769bbc6d39fe2ce72cac3e",
    "reviewed": true,
    "images": "separate"
   },
