@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T06:08:37Z",
+ "updatedAt": "2026-11-27T06:09:21Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -634,6 +634,19 @@
    "sha256": "53be8f271743aefc2d29afd92e72e572c1f3ae258dcca064a33907c2f59f6a62",
    "reviewed": true,
    "images": "separate"
+  },
+  {
+   "subject": "اللغة الإنجليزية",
+   "grade": "الصف الثامن",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/english-g8-s2-extras.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 27723,
+   "sha256": "d15f770e6fd12dbbd3f9054ca3bac40729e651fc4128d28115e93f03cff9663d",
+   "reviewed": true,
+   "images": "none",
+   "title": "الإضافات (Extras)"
   },
   {
    "subject": "اللغة الإنجليزية",
