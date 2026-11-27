@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T13:54:54Z",
+ "updatedAt": "2026-11-27T13:56:29Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1698,11 +1698,11 @@
    "semester": "الفصل الدراسي الثاني",
    "file": "packs/physics-g10-s2.json",
    "count": 33,
-   "v": 2,
-   "bytes": 241211,
-   "sha256": "a91544e6b3038878f08becb24d5a16d4b39edf6cf813ef39ddc1537e8d5b3fdc",
+   "v": 3,
+   "bytes": 280663,
+   "sha256": "d77a196c3c3727316f67fed0492dd6bd922bf951f67860bbf4c26178456e0033",
    "reviewed": true,
-   "images": "none"
+   "images": "separate"
   },
   {
    "subject": "الفيزياء",
