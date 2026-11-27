@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T09:55:19Z",
+ "updatedAt": "2026-11-27T10:32:21Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1917,6 +1917,30 @@
    "v": 1,
    "bytes": 72595,
    "sha256": "1ef9537d937c92b15ce0ec2c0ffe68c54b163a892d500ad9826a22feb278c631",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف الحادي عشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/sports-g11-s1.json",
+   "count": 13,
+   "v": 1,
+   "bytes": 147691,
+   "sha256": "10ac895e9d19b6b45e6a115bab261efde35a91405f0077e44dcbb18284115197",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف الحادي عشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/sports-g11-s2.json",
+   "count": 12,
+   "v": 1,
+   "bytes": 129249,
+   "sha256": "48e55c45b9e2418908713c14d58933b0629a90bc8127eb24c8da9d0324bea173",
    "reviewed": true,
    "images": "separate"
   },
