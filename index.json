@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T06:04:20Z",
+ "updatedAt": "2026-11-27T06:08:37Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -660,6 +660,32 @@
    "reviewed": true,
    "images": "none",
    "title": "الوحدة 4 (Unit 4)"
+  },
+  {
+   "subject": "اللغة الإنجليزية",
+   "grade": "الصف الثامن",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/english-g8-s2-unit5.json",
+   "count": 11,
+   "v": 1,
+   "bytes": 53527,
+   "sha256": "827c4eae7209f4860bee2569d263815ce286bb1120edfe951b5d09c7eb2fecdb",
+   "reviewed": true,
+   "images": "none",
+   "title": "الوحدة 5 (Unit 5)"
+  },
+  {
+   "subject": "اللغة الإنجليزية",
+   "grade": "الصف الثامن",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/english-g8-s2-unit6.json",
+   "count": 11,
+   "v": 1,
+   "bytes": 54655,
+   "sha256": "f75e2b6f391d3410963cdad8e970500a835e28dc23e26e7b466d88d72f9132a8",
+   "reviewed": true,
+   "images": "none",
+   "title": "الوحدة 6 (Unit 6)"
   },
   {
    "subject": "اللغة الإنجليزية",
