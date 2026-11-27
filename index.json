@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T08:06:57Z",
+ "updatedAt": "2026-11-27T08:51:57Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1237,6 +1237,18 @@
    "v": 1,
    "bytes": 71916,
    "sha256": "7c2e1b501f69bed19784ce5c980cd3a9dcdb0b75f4a2231f84ba419e049de584",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف الثامن",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/lifeskills-g8-s1.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 99284,
+   "sha256": "6128213c01a0a3864ea85bf3a778927bd04975933cac0244fd8efce5fea60bd2",
    "reviewed": true,
    "images": "separate"
   },
