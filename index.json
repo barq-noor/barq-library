@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-26T13:39:09Z",
+ "updatedAt": "2026-11-27T03:36:48Z",
  "packs": [
   {
    "subject": "اللغة العربية",
@@ -61,6 +61,18 @@
    "sha256": "6defc63ebab80f49b2dd57b210f948012d4c4d3591b939bf0c9bc567971a9cf8",
    "reviewed": true,
    "images": "separate"
+  },
+  {
+   "subject": "اللغة العربية",
+   "grade": "الصف الحادي عشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/arabic-g11-s2.json",
+   "count": 14,
+   "v": 1,
+   "bytes": 136398,
+   "sha256": "8968b12ed071a7e19329f48342bfdc903748c296cf489f50302e802a9b656e2d",
+   "reviewed": true,
+   "images": "none"
   }
  ]
 }
