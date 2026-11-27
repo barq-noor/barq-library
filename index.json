@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T14:19:34Z",
+ "updatedAt": "2026-11-27T14:22:44Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1366,23 +1366,23 @@
    "semester": "الفصل الدراسي الأول",
    "file": "packs/lifeskills-g9-s1.json",
    "count": 5,
-   "v": 1,
-   "bytes": 34357,
-   "sha256": "b04d7c899d2bcf6c6e5140cd56269e744d661adc3aa05f33beb46322dc7b831e",
+   "v": 2,
+   "bytes": 40902,
+   "sha256": "f947d4d35a75946eda8f2d06451e9676d1ce37cd4b2a59482e34e547ce540bb4",
    "reviewed": true,
-   "images": "none"
+   "images": "separate"
   },
   {
    "subject": "المهارات الحياتية",
    "grade": "الصف التاسع",
    "semester": "الفصل الدراسي الثاني",
    "file": "packs/lifeskills-g9-s2.json",
-   "count": 4,
-   "v": 1,
-   "bytes": 26196,
-   "sha256": "f43200268620274298275446674b44e54e1a8d853fa08e683a7457e227035ddf",
+   "count": 7,
+   "v": 2,
+   "bytes": 57801,
+   "sha256": "54923a0972e23e2c60f70253aec037ff9e14ca905404dd405742f96a32750459",
    "reviewed": true,
-   "images": "none"
+   "images": "separate"
   },
   {
    "subject": "الرياضيات",
