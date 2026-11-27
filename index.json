@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T09:27:32Z",
+ "updatedAt": "2026-11-27T09:55:19Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1895,6 +1895,30 @@
    "sha256": "a96b9951fa519487e0d276e0dfb4aed8007a11b6ed42cf7e90586e74b139c033",
    "reviewed": true,
    "images": "none"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/sports-g10-s1.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 64860,
+   "sha256": "231b90ee2ed7ed3961fd17d28163c45eae9c17e465e2ce25cff599625845e81f",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/sports-g10-s2.json",
+   "count": 7,
+   "v": 1,
+   "bytes": 72595,
+   "sha256": "1ef9537d937c92b15ce0ec2c0ffe68c54b163a892d500ad9826a22feb278c631",
+   "reviewed": true,
+   "images": "separate"
   },
   {
    "subject": "الرياضة المدرسية",
