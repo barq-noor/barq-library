@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T06:13:31Z",
+ "updatedAt": "2026-11-27T06:15:09Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -754,9 +754,9 @@
    "semester": "العام الدراسي (كتاب واحد)",
    "file": "packs/geo-econ-g11-year.json",
    "count": 15,
-   "v": 2,
-   "bytes": 181094,
-   "sha256": "0c60abeee77a26687f114d4a3bd595406cb3cecf0580a2fdc581f2369b6f50cf",
+   "v": 3,
+   "bytes": 256747,
+   "sha256": "aefa292724d9403410f1062c3b69f31a4088b148d81c6fa077991c7c7a528fd7",
    "reviewed": true,
    "images": "separate"
   },
