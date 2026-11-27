@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T06:27:25Z",
+ "updatedAt": "2026-11-27T06:38:50Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -865,6 +865,18 @@
    "v": 1,
    "bytes": 89541,
    "sha256": "64d83b1c553d00c69515802efe7d85d5a29011e6a32cc1ebd8de235b63a7adb6",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف الخامس",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/ict-g5-s2.json",
+   "count": 11,
+   "v": 1,
+   "bytes": 149264,
+   "sha256": "28182589aa1831f28a9c1921f36f2d76a910772d0006ce6a7d1bc096788b2fd4",
    "reviewed": true,
    "images": "separate"
   },
