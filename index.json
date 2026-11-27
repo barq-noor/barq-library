@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T06:01:53Z",
+ "updatedAt": "2026-11-27T06:04:20Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -634,6 +634,32 @@
    "sha256": "53be8f271743aefc2d29afd92e72e572c1f3ae258dcca064a33907c2f59f6a62",
    "reviewed": true,
    "images": "separate"
+  },
+  {
+   "subject": "اللغة الإنجليزية",
+   "grade": "الصف الثامن",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/english-g8-s2-readers.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 33966,
+   "sha256": "ec5e06dffd83f7e4135ff23c38f986182ccf0a348f58ac8e280fdfc7e1501cc6",
+   "reviewed": true,
+   "images": "none",
+   "title": "القصص القرائية (Readers)"
+  },
+  {
+   "subject": "اللغة الإنجليزية",
+   "grade": "الصف الثامن",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/english-g8-s2-unit4.json",
+   "count": 11,
+   "v": 1,
+   "bytes": 54277,
+   "sha256": "78efa796844eaa041d95d4e569dde0893908df3703882851263e32a8635dc9bf",
+   "reviewed": true,
+   "images": "none",
+   "title": "الوحدة 4 (Unit 4)"
   },
   {
    "subject": "اللغة الإنجليزية",
