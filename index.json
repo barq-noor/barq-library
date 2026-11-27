@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T05:20:26Z",
+ "updatedAt": "2026-11-27T05:21:40Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -484,11 +484,11 @@
    "semester": "الفصل الدراسي الثاني",
    "file": "packs/english-g10-s2.json",
    "count": 24,
-   "v": 1,
-   "bytes": 173560,
-   "sha256": "f08c52f2bc4d87a84174a46d5402b2c52f9181733605bbc8509e9b3fcc9c1beb",
+   "v": 2,
+   "bytes": 173568,
+   "sha256": "147e2b6796c25a60e6ae10d0510525b09165316bcbca1b94500071346b690be4",
    "reviewed": true,
-   "images": "none"
+   "images": "separate"
   },
   {
    "subject": "اللغة الإنجليزية",
@@ -520,11 +520,11 @@
    "semester": "الفصل الدراسي الأول",
    "file": "packs/english-g12-s1.json",
    "count": 27,
-   "v": 2,
-   "bytes": 220234,
-   "sha256": "a2f0f893b8d86d813ef139611f74b044c6cadf82276a7da3bd62a15460a27175",
+   "v": 3,
+   "bytes": 220242,
+   "sha256": "507a0346096282f9bd71e9b82f3a46084b402dcc379b021216b90e6dc0ac92c0",
    "reviewed": true,
-   "images": "none"
+   "images": "separate"
   },
   {
    "subject": "اللغة الإنجليزية",
@@ -628,11 +628,11 @@
    "semester": "الفصل الدراسي الأول",
    "file": "packs/english-g9-s1.json",
    "count": 23,
-   "v": 1,
-   "bytes": 165645,
-   "sha256": "c1ad8f525834debce4dd06b7ea32461d33b6820add7431bec37bf5200c679fcf",
+   "v": 2,
+   "bytes": 165653,
+   "sha256": "c12357e2571d81443096c73d5c6edc509a42f39775140c7e933a51dd88185868",
    "reviewed": true,
-   "images": "none"
+   "images": "separate"
   },
   {
    "subject": "اللغة الإنجليزية",
