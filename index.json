@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T07:37:07Z",
+ "updatedAt": "2026-11-27T07:42:00Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1167,6 +1167,18 @@
    "sha256": "6c4a366de13d1c16d67a4f0618c9b63ed770e540d45e3f7e1ebae09c094c4c12",
    "reviewed": true,
    "images": "none"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف الخامس",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/lifeskills-g5-s1.json",
+   "count": 4,
+   "v": 1,
+   "bytes": 52907,
+   "sha256": "b53e1aeaf049c92207ae457bd3b087826e9c5394261aaae941ee147026f6f65a",
+   "reviewed": true,
+   "images": "separate"
   },
   {
    "subject": "المهارات الحياتية",
