@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T07:55:24Z",
+ "updatedAt": "2026-11-27T07:57:07Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1210,9 +1210,9 @@
    "semester": "الفصل الدراسي الثاني",
    "file": "packs/lifeskills-g6-s2.json",
    "count": 4,
-   "v": 1,
-   "bytes": 32647,
-   "sha256": "e00155cddabf00bc6e0cd2080bcc6f2011152498ee05dca580048b13dd7fee34",
+   "v": 2,
+   "bytes": 69244,
+   "sha256": "9aa3556f96a402fc5da69e78d46a1de42202d806f0c3aed54cafce3863dacf6c",
    "reviewed": true,
    "images": "separate"
   },
