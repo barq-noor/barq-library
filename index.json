@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T15:03:05Z",
+ "updatedAt": "2026-11-27T15:47:59Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1053,10 +1053,10 @@
    "grade": "الصف العاشر",
    "semester": "الفصل الدراسي الأول",
    "file": "packs/islamic-g10-s1.json",
-   "count": 27,
-   "v": 2,
-   "bytes": 212666,
-   "sha256": "2771f4cc5dbd803b5d45a16c9fe53a0f2a148a58f37c7633a407f9d0ac6f868f",
+   "count": 23,
+   "v": 3,
+   "bytes": 202092,
+   "sha256": "3309371977ebf6f70741485c667c3348d4f44000c08193d8f9b0de6b841cfbd0",
    "reviewed": true,
    "images": "separate"
   },
