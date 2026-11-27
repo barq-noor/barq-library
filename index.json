@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T13:17:49Z",
+ "updatedAt": "2026-11-27T13:53:13Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1782,11 +1782,11 @@
    "semester": "الفصل الدراسي الأول",
    "file": "packs/science-g5-s1.json",
    "count": 21,
-   "v": 1,
-   "bytes": 135722,
-   "sha256": "a7024627999c05c4b089c5db3848ff4fe6c5d3e8890fb5ab81b5eef787a47abc",
+   "v": 2,
+   "bytes": 157773,
+   "sha256": "fe9cf0d0381c7f156dc0f7aec96abbf92b1821fe6a9f51e65efddefbd15f89e1",
    "reviewed": true,
-   "images": "none"
+   "images": "separate"
   },
   {
    "subject": "العلوم",
@@ -1794,11 +1794,11 @@
    "semester": "الفصل الدراسي الثاني",
    "file": "packs/science-g5-s2.json",
    "count": 19,
-   "v": 1,
-   "bytes": 126697,
-   "sha256": "56dc4f976b29666d8726d672551417dc631ebf7fab957bfb6fdeb103d4f02df1",
+   "v": 2,
+   "bytes": 146872,
+   "sha256": "9fcafd471e85c941ad0be40a1218e0b4bfbe4fd9caad4e4677ad79ed109fb46f",
    "reviewed": true,
-   "images": "none"
+   "images": "separate"
   },
   {
    "subject": "العلوم",
