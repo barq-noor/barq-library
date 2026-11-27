@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T07:57:07Z",
+ "updatedAt": "2026-11-27T08:03:52Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1213,6 +1213,18 @@
    "v": 2,
    "bytes": 69244,
    "sha256": "9aa3556f96a402fc5da69e78d46a1de42202d806f0c3aed54cafce3863dacf6c",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف السابع",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/lifeskills-g7-s1.json",
+   "count": 5,
+   "v": 1,
+   "bytes": 122366,
+   "sha256": "99d5c45e4582e603c4446e2219940088c42af932a61a2dc0129c4c90b2758694",
    "reviewed": true,
    "images": "separate"
   },
