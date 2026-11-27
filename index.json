@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T12:23:31Z",
+ "updatedAt": "2026-11-27T12:31:23Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1653,6 +1653,30 @@
    "v": 1,
    "bytes": 74471,
    "sha256": "0ca0e22f15479b5d9952fcf201e3afc9f821f642a4c2a0cca8762b224e0c8e98",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الموسيقى",
+   "grade": "الصف الحادي عشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/music-g11-s1.json",
+   "count": 12,
+   "v": 1,
+   "bytes": 100922,
+   "sha256": "40c4e1319b403d80e924644ea06eb2766e9756b1e2ca0ec084879e798d820ed2",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الموسيقى",
+   "grade": "الصف الحادي عشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/music-g11-s2.json",
+   "count": 9,
+   "v": 1,
+   "bytes": 75981,
+   "sha256": "4e6f960a18491d3ea4cb5fc655c0e13d5a1f62cd765edb858d6d00c431a937c0",
    "reviewed": true,
    "images": "separate"
   },
