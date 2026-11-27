@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T07:54:43Z",
+ "updatedAt": "2026-11-27T07:55:24Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1201,6 +1201,18 @@
    "v": 1,
    "bytes": 104412,
    "sha256": "ad1100458ad9df470f58cc86c3b7fac9471b02ba5ed107bc0c9593e9cdf9a9a3",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف السادس",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/lifeskills-g6-s2.json",
+   "count": 4,
+   "v": 1,
+   "bytes": 32647,
+   "sha256": "e00155cddabf00bc6e0cd2080bcc6f2011152498ee05dca580048b13dd7fee34",
    "reviewed": true,
    "images": "separate"
   },
