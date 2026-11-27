@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T14:49:21Z",
+ "updatedAt": "2026-11-27T15:03:05Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1221,10 +1221,10 @@
    "grade": "الصف التاسع",
    "semester": "الفصل الدراسي الأول",
    "file": "packs/islamic-g9-s1.json",
-   "count": 22,
-   "v": 3,
-   "bytes": 251434,
-   "sha256": "7f8cfc2dfe6b410cdd4af55b25f4bbcf7dc2220300822075c842741dcecf64bc",
+   "count": 24,
+   "v": 4,
+   "bytes": 284151,
+   "sha256": "3431903601736a300632164a0a1286b553e084274876ddbdd7176c1a4c171efd",
    "reviewed": true,
    "images": "none"
   },
