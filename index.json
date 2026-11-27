@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T10:49:08Z",
+ "updatedAt": "2026-11-27T11:22:51Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -286,6 +286,30 @@
    "sha256": "c8e26b56cf4c04d258c2d2f9e99e51cad8c7aa16218c57ab38d67622698d202d",
    "reviewed": true,
    "images": "none"
+  },
+  {
+   "subject": "الفنون التشكيلية",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/art-g10-s1.json",
+   "count": 5,
+   "v": 1,
+   "bytes": 47229,
+   "sha256": "0d2c1ac816b5f870e61b3a9dd43ac01678fe408c7d7a3c9d8a7f3e021d7f65db",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الفنون التشكيلية",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/art-g10-s2.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 56299,
+   "sha256": "c6b200da2c8d4ecdb95d82476faeef7e16096c7dca14b7e247616d545887080e",
+   "reviewed": true,
+   "images": "separate"
   },
   {
    "subject": "الأحياء",
