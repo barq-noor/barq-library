@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T13:58:25Z",
+ "updatedAt": "2026-11-27T14:00:23Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -862,11 +862,11 @@
    "semester": "الفصل الدراسي الأول",
    "file": "packs/ict-g10-s1.json",
    "count": 5,
-   "v": 1,
-   "bytes": 39472,
-   "sha256": "9da3717893ae5e74d3f31e1c8028b121f57d7f4637367a4f12a6fed4d00acf21",
+   "v": 2,
+   "bytes": 45773,
+   "sha256": "4f5aacf394ade9f30839314a8eace330901a9ca389dd8048f68302667241c861",
    "reviewed": true,
-   "images": "none"
+   "images": "separate"
   },
   {
    "subject": "تقنية المعلومات",
@@ -910,11 +910,11 @@
    "semester": "الفصل الدراسي الأول",
    "file": "packs/ict-g12-s1.json",
    "count": 9,
-   "v": 1,
-   "bytes": 70246,
-   "sha256": "40643034b01483799c82d87b7f375e05d43d6331edf75fa42ff985647df035cc",
+   "v": 2,
+   "bytes": 81739,
+   "sha256": "80b25b0e45c82ae685fe3f3789601abff32c18c2b23a0b3b20f3b68bcd920843",
    "reviewed": true,
-   "images": "none"
+   "images": "separate"
   },
   {
    "subject": "تقنية المعلومات",
