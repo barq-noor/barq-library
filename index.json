@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T07:23:39Z",
+ "updatedAt": "2026-11-27T07:33:39Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -949,6 +949,18 @@
    "v": 1,
    "bytes": 106522,
    "sha256": "0a36cdf51f4f1e66615cd5e867e179ce6f87f903e4c064063384f655d7f1ccaa",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف التاسع",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/ict-g9-s1.json",
+   "count": 9,
+   "v": 1,
+   "bytes": 87045,
+   "sha256": "90c275808bbf42de92e8e2c3fc9e9e107e4be2a5398b944d6a214ed09f143c56",
    "reviewed": true,
    "images": "separate"
   },
