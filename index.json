@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T06:00:30Z",
+ "updatedAt": "2026-11-27T06:01:53Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -32,9 +32,9 @@
    "semester": "الفصل الدراسي الأول",
    "file": "packs/arabic-g10-s1.json",
    "count": 42,
-   "v": 1,
-   "bytes": 297259,
-   "sha256": "09f2e929436826401b2e04254bc7fbc946ef3b1c07e768e654d0a74a67b1a9d6",
+   "v": 2,
+   "bytes": 297263,
+   "sha256": "0d640f4cfd3c715fcb1a9b3ad629ab72228e8bdb272d6c5346ea05d25e5f2c7f",
    "reviewed": true,
    "images": "none"
   },
