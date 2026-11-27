@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T05:26:52Z",
+ "updatedAt": "2026-11-27T05:29:11Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -134,9 +134,9 @@
    "semester": "الفصل الدراسي الأول",
    "file": "packs/arabic-g12-s1.json",
    "count": 36,
-   "v": 2,
-   "bytes": 293069,
-   "sha256": "94a69c59c6e10397d7de55ef7fc6b989d53236f19dddccdc3eda94c9db33e088",
+   "v": 3,
+   "bytes": 293344,
+   "sha256": "7af4e4b005c448034bea32003aed4632801417dd7f860b8e4e0924036e0c0efb",
    "reviewed": true,
    "images": "none",
    "title": "المؤنس"
