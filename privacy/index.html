@@ -3,7 +3,7 @@
 <title>سياسة الخصوصية — برق (Barq) | Privacy Policy</title>
 <style>body{font-family:'Noto Sans Arabic',Tahoma,sans-serif;max-width:820px;margin:24px auto;padding:0 16px;line-height:1.8;color:#1a2233}table{border-collapse:collapse;width:100%}td,th{border:1px solid #cdd5e4;padding:6px 10px;text-align:right}h1,h2,h3{color:#14307a}.en{direction:ltr;text-align:left}.en td,.en th{text-align:left}</style></head><body>
 <h1>سياسة الخصوصية — برق (Barq)</h1>
-<p>آخر تحديث: 2026-11-27 (الإصدار 4.1.3). «برق» أداة مستقلة لمساعدة المعلمين، وليست تابعة لوزارة التربية والتعليم.</p>
+<p>آخر تحديث: 2026-11-27 (الإصدار 4.1.5). «برق» أداة مستقلة لمساعدة المعلمين، وليست تابعة لوزارة التربية والتعليم.</p>
 <h2>العربية</h2>
 <p><strong>الملخص: لا نبيع بياناتك ولا نعرض إعلانات ولا نتتبعك. الاتصال الوحيد بخادم يشغّله المطوّر هو للتحقق من رمز التفعيل وتنزيل حزم المكتبة. لا نرى بيانات نور ولا أسماء الطلاب ولا درجاتهم.</strong></p>
 <h3>خادم التراخيص (رمز التفعيل)</h3>
@@ -23,6 +23,8 @@
 <tr><td>مفاتيح API التي تدخلها</td><td>تخزين الإضافة المحلي</td><td>تُرسل فقط إلى خادم المزوّد نفسه عبر HTTPS</td></tr>
 <tr><td>التحاضير والدروس المستوردة والصور</td><td>تخزين الإضافة المحلي وIndexedDB</td><td>أجزاء منها تُرسل إلى مزوّد الذكاء الاصطناعي الذي تختاره عند طلب التوليد فقط</td></tr>
 <tr><td>بريدك الإلكتروني (التسجيل)</td><td>تخزين الإضافة المحلي</td><td>لا يُرسل لأي جهة</td></tr></table>
+<h3>حصر عدد الأجهزة لكل رمز</h3>
+<p>للحد من مشاركة الرمز الواحد بين أشخاص كثيرين، تنشئ الأداة على جهاز المعلم معرّف تثبيت عشوائيًا لا يرتبط باسم الشخص ولا برقمه. يُرسل مع طلبات التفعيل والتحديث. نخزّن فقط بصمة أحادية الاتجاه (hash) لهذا المعرّف مع الحساب، وتاريخ أول ظهور وآخر ظهور له، وعدد الأجهزة المسموح بها (الافتراضي 2). لا نخزّن طراز الجهاز ولا اسمه ولا عنوان IP ولا الموقع ولا أي معلومات عن العتاد. يستطيع المسؤول تفريغ الأجهزة المسجّلة لأي حساب في أي وقت، وحذف الحساب يحذف سجلات أجهزته.</p>
 <h3>مزوّدو الذكاء الاصطناعي (اختياريون وأنت تختارهم)</h3>
 <p>عند استخدام التوليد أو البحث يُرسل عنوان الدرس وسياقه ومحتوى التحضير ذو الصلة إلى المزوّد الذي فعّلته (Google Gemini أو OpenAI أو Anthropic أو OpenRouter أو Groq أو Cerebras أو Mistral أو خدمة مخصصة تدخل عنوانها)، بمفتاحك أنت. وفي «استوديو الكتب» تُرسل أيضًا صفحات الكتاب التي تختارها. تخضع هذه البيانات لسياسة المزوّد. لا تُرسل صفحات نور ولا أسماء الطلاب ولا درجاتهم لأي مزوّد.</p>
 <h3>بيانات الطلاب والدرجات</h3>
@@ -47,6 +49,8 @@
 <li><strong>Not collected at all:</strong> card or payment data (payment happens outside the extension), Noor login details, Noor page content, student names or grades, AI keys.</li>
 <li><strong>Deletion:</strong> no automatic deletion. Your subscription data is deleted on request by the administrator. Pack files are kept in a private repository.</li>
 </ul>
+<h3>Device limit per code</h3>
+<p>To limit sharing of one code between many people, the tool creates a random installation identifier on the teacher's device that is not linked to the person's name or phone. It is sent with activation and refresh requests. We store only a one-way hash of that identifier with the account, plus the date it was first and last seen, and the number of devices allowed (default 2). We do not store the device model, name, IP address, location or any hardware information. The administrator can clear the registered devices of an account at any time, and deleting an account deletes its device records.</p>
 <h3>Other data</h3>
 <ul>
 <li>AI provider keys stay in local storage and go only to the provider you chose, over HTTPS.</li>
