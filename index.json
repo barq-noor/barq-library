@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T09:10:12Z",
+ "updatedAt": "2026-11-27T09:27:32Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1895,6 +1895,30 @@
    "sha256": "a96b9951fa519487e0d276e0dfb4aed8007a11b6ed42cf7e90586e74b139c033",
    "reviewed": true,
    "images": "none"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف التاسع",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/sports-g9-s1.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 63206,
+   "sha256": "27ce00b6699a692f0dc5644755c38dd02e3489d6e84a43e7a1124ca7348c152c",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف التاسع",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/sports-g9-s2.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 59800,
+   "sha256": "08f0d0ce0ba819a490ddafed14b902d6aaec4e08f9eb9aead39b5d3c843ac219",
+   "reviewed": true,
+   "images": "separate"
   },
   {
    "subject": "الدراسات الاجتماعية (هذا وطني)",
