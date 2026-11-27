@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T09:06:32Z",
+ "updatedAt": "2026-11-27T09:10:12Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1177,6 +1177,18 @@
    "v": 1,
    "bytes": 92789,
    "sha256": "1baa0ccfbac890d4aeaec295f3a15d854860e0951af36181f99e64c87060d8c2",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/lifeskills-g10-s2.json",
+   "count": 4,
+   "v": 1,
+   "bytes": 79223,
+   "sha256": "658d6c3146df33637c509c5d8c591f4300ddf4b00d42bfe6535eaf98a87d7142",
    "reviewed": true,
    "images": "separate"
   },
