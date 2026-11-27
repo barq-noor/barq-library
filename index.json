@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T11:22:51Z",
+ "updatedAt": "2026-11-27T11:56:02Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -308,6 +308,30 @@
    "v": 1,
    "bytes": 56299,
    "sha256": "c6b200da2c8d4ecdb95d82476faeef7e16096c7dca14b7e247616d545887080e",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الفنون التشكيلية",
+   "grade": "الصف الحادي عشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/art-g11-s1.json",
+   "count": 10,
+   "v": 1,
+   "bytes": 101187,
+   "sha256": "798cb87e9d26ad3e7de41a041726a2b064a8be50d8cd05477f3f9ec81357618b",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الفنون التشكيلية",
+   "grade": "الصف الحادي عشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/art-g11-s2.json",
+   "count": 8,
+   "v": 1,
+   "bytes": 81630,
+   "sha256": "f72e6f9cc00b9f74f2338a01e4aaf466bc6b0bef57dc59c65f38df5ca55c8efb",
    "reviewed": true,
    "images": "separate"
   },
