@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T07:33:58Z",
+ "updatedAt": "2026-11-27T07:34:26Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1587,12 +1587,12 @@
   {
    "subject": "العلوم",
    "grade": "الصف السابع",
-   "semester": "الفصل الأول",
+   "semester": "الفصل الدراسي الأول",
    "file": "packs/science-g7-s1.json",
    "count": 55,
-   "v": 2,
-   "bytes": 391176,
-   "sha256": "28077203c0621817480145f8705090d945d2e57c530af3e06c6aecccbb86c29e",
+   "v": 3,
+   "bytes": 392001,
+   "sha256": "88263882edfbaab4299f48bf3f6c210defc75f87c95d3cf55693b83ea9c6a921",
    "reviewed": true,
    "images": "separate"
   },
