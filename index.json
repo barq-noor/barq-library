@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T14:22:44Z",
+ "updatedAt": "2026-11-27T14:49:21Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1853,10 +1853,10 @@
    "grade": "الصف الثامن",
    "semester": "الفصل الدراسي الأول",
    "file": "packs/science-g8-s1.json",
-   "count": 47,
-   "v": 1,
-   "bytes": 331330,
-   "sha256": "b7dca242638af50263c59c63ab79cc4ec2a94daa30390478c94e3e6c7fb289cd",
+   "count": 45,
+   "v": 2,
+   "bytes": 343934,
+   "sha256": "32ac0f19a7f654436a9b08421745e7c607284818cd2619090045c4dca462273b",
    "reviewed": true,
    "images": "separate"
   },
