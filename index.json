@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T07:51:37Z",
+ "updatedAt": "2026-11-27T07:54:43Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -185,9 +185,9 @@
    "semester": "الفصل الدراسي الثاني",
    "file": "packs/arabic-g5-s2.json",
    "count": 67,
-   "v": 5,
-   "bytes": 419803,
-   "sha256": "8f4df03c0783314c7b0962af7f784374bd9e7b98975e048ebcf3e29cfa831b7b",
+   "v": 6,
+   "bytes": 419843,
+   "sha256": "8d38546bd585c65d28d40f895d332c2d862290520058431372a2ae97a1957754",
    "reviewed": true,
    "images": "none"
   },
