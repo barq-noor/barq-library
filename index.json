@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T13:15:29Z",
+ "updatedAt": "2026-11-27T13:16:33Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1842,9 +1842,9 @@
    "semester": "الفصل الدراسي الثاني",
    "file": "packs/science-g7-s2.json",
    "count": 34,
-   "v": 6,
-   "bytes": 325767,
-   "sha256": "f2860bdc184d1af457d3ed7fdfacc7ae7b7f56881a0f3d8680d55aed537894aa",
+   "v": 7,
+   "bytes": 326650,
+   "sha256": "ed5301b8413962e7feec5e707835736137d639e959e3f895551a34ef2b679458",
    "reviewed": true,
    "images": "separate"
   },
