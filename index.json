@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T05:29:45Z",
+ "updatedAt": "2026-11-27T05:33:01Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -173,9 +173,9 @@
    "semester": "الفصل الدراسي الأول",
    "file": "packs/arabic-g5-s1.json",
    "count": 50,
-   "v": 1,
-   "bytes": 352713,
-   "sha256": "403e2511631cfc5b15364aa7816c3f217ec0cd3b43b7f916724a3263eb079c78",
+   "v": 2,
+   "bytes": 353188,
+   "sha256": "309fc924a59a42c919e6d22337bbf52139d9b0150e03fcaf5302fc2879261e65",
    "reviewed": true,
    "images": "separate"
   },
@@ -185,9 +185,9 @@
    "semester": "الفصل الدراسي الثاني",
    "file": "packs/arabic-g5-s2.json",
    "count": 75,
-   "v": 2,
-   "bytes": 460391,
-   "sha256": "fd739a78eafdb5f6c743e4142a9c83b84f0f38453bf5ef53e2e164ded45524b6",
+   "v": 3,
+   "bytes": 460748,
+   "sha256": "3a7e30fcfa6d16b85a09811598a241cfbf5faf75a7dc24fbb47a9954ff5cc29e",
    "reviewed": true,
    "images": "none"
   },
@@ -245,9 +245,9 @@
    "semester": "الفصل الدراسي الأول",
    "file": "packs/arabic-g8-s1.json",
    "count": 22,
-   "v": 2,
-   "bytes": 115567,
-   "sha256": "e781c92d83af734e67a80c632a42da18dc84c9edb9e73bfbc8e943c81e255326",
+   "v": 3,
+   "bytes": 115716,
+   "sha256": "0a4ac59c8dc7e4264c5f2b4d03bf8e4642a9118e525412ce38a51d2637f70b14",
    "reviewed": true,
    "images": "none"
   },
