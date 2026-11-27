@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T12:09:40Z",
+ "updatedAt": "2026-11-27T12:23:31Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1629,6 +1629,30 @@
    "v": 1,
    "bytes": 274735,
    "sha256": "d91aa5cc5cb815d431a56755b00ffd3b118bbfb2009b55bdad188a6c86145657",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الموسيقى",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/music-g10-s1.json",
+   "count": 9,
+   "v": 1,
+   "bytes": 68823,
+   "sha256": "a1b31dae4467d7a039d47790834438d6ad9dc5435f95981c7c18adaf5864e1c1",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "الموسيقى",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/music-g10-s2.json",
+   "count": 9,
+   "v": 1,
+   "bytes": 74471,
+   "sha256": "0ca0e22f15479b5d9952fcf201e3afc9f821f642a4c2a0cca8762b224e0c8e98",
    "reviewed": true,
    "images": "separate"
   },
