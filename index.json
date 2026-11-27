@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T13:56:29Z",
+ "updatedAt": "2026-11-27T13:58:25Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -886,11 +886,11 @@
    "semester": "الفصل الدراسي الأول",
    "file": "packs/ict-g11-s1.json",
    "count": 14,
-   "v": 1,
-   "bytes": 96409,
-   "sha256": "3aa94f1d98c9f1abf22a494f7225511c8ff3640ecd6aa6499669a612e1d254a3",
+   "v": 2,
+   "bytes": 114304,
+   "sha256": "22170fd40fdc58c8e2e071f225f94f822056ae7b42ecaeb31b70797c95c34d20",
    "reviewed": true,
-   "images": "none"
+   "images": "separate"
   },
   {
    "subject": "تقنية المعلومات",
