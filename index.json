@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T13:16:33Z",
+ "updatedAt": "2026-11-27T13:17:49Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1150,9 +1150,9 @@
    "semester": "الفصل الدراسي الأول",
    "file": "packs/islamic-g6-s1.json",
    "count": 27,
-   "v": 1,
-   "bytes": 305088,
-   "sha256": "2928d67396ff416428e49e83f25d6b42e40f61f872c66a4badf08849343a9612",
+   "v": 2,
+   "bytes": 341771,
+   "sha256": "a2a59cc0690453116f408e44b8f2f104cfdaa7eedd2e2a111946380057fb4c90",
    "reviewed": true,
    "images": "separate"
   },
