@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T07:12:24Z",
+ "updatedAt": "2026-11-27T07:13:13Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -877,6 +877,18 @@
    "v": 1,
    "bytes": 149264,
    "sha256": "28182589aa1831f28a9c1921f36f2d76a910772d0006ce6a7d1bc096788b2fd4",
+   "reviewed": true,
+   "images": "separate"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف السادس",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/ict-g6-s1.json",
+   "count": 13,
+   "v": 1,
+   "bytes": 172162,
+   "sha256": "136143341a689ad029e758eaa2bf14eb777efca73c8dfc64eccb7fd1f95c3bc5",
    "reviewed": true,
    "images": "separate"
   },
