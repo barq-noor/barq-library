@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T06:38:50Z",
+ "updatedAt": "2026-11-27T07:12:24Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -95,9 +95,9 @@
    "semester": "الفصل الدراسي الثاني",
    "file": "packs/arabic-g11-s2-mufeed.json",
    "count": 14,
-   "v": 2,
-   "bytes": 138846,
-   "sha256": "4363478c0b286e8d32bf96292e0e8971d5ded3efbf932c1c1c086216d9d53436",
+   "v": 3,
+   "bytes": 138838,
+   "sha256": "f603fa8a9d29362e7b2ecb0b9433982e554293fe4058fe1728572068be9c8da5",
    "reviewed": true,
    "images": "none",
    "title": "المفيد"
