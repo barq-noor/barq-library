@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updatedAt": "2026-11-27T06:20:43Z",
+ "updatedAt": "2026-11-27T06:24:07Z",
  "packs": [
   {
    "subject": "الدراسات الاجتماعية",
@@ -1734,9 +1734,9 @@
    "semester": "الفصل الدراسي الأول",
    "file": "packs/watani-g11-s1.json",
    "count": 7,
-   "v": 1,
-   "bytes": 102495,
-   "sha256": "d7a3a9da3b1282dd7464a8c37a87d933c4547b8787fde4f5e22b48475222acec",
+   "v": 2,
+   "bytes": 135632,
+   "sha256": "0cf27c0496b244bf8e9d9022d0ebddd650e272aaf863c25f145947103ee61eb9",
    "reviewed": true,
    "images": "separate"
   },
