@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "edition": "clean",
- "updatedAt": "2026-11-28T15:20:34Z",
+ "updatedAt": "2026-11-28T17:17:20Z",
  "packs": [
   {
    "subject": "الأحياء",
@@ -619,8 +619,8 @@
    "file": "packs/arabic-g7-s2.json",
    "count": 37,
    "v": 1,
-   "bytes": 229933,
-   "sha256": "feab148631ccad4203b0857cc688aa47bb6991c2488823bdf047eb9ea58ebffc",
+   "bytes": 250316,
+   "sha256": "f653cbce3ffd08e9f70f8b8b732799d9b07238049d685c8b861da6c780834e90",
    "reviewed": true,
    "images": "none"
   },
