@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "edition": "clean",
- "updatedAt": "2026-11-28T13:24:14Z",
+ "updatedAt": "2026-11-28T13:50:59Z",
  "packs": [
   {
    "subject": "الأحياء",
@@ -2141,6 +2141,18 @@
    "v": 1,
    "bytes": 81673,
    "sha256": "25e87ff2315da9b95b04a16b0cb68e5d17a24bbcaf25fc7ec486a39d1251894b",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "اللغة الإنجليزية",
+   "grade": "الصف الثامن",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/english-g8-s2.json",
+   "count": 45,
+   "v": 1,
+   "bytes": 187645,
+   "sha256": "4d9ce00d8a2926e68e140f903ae2afc5e91669298783ffb796e013685195a43c",
    "reviewed": true,
    "images": "none"
   }
