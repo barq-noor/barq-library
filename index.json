@@ -1819,6 +1819,126 @@
    "sha256": "e0f35aa38d29ce58f4d1e78ae11060179eaf12c997d90de74204b1702d50210d",
    "reviewed": true,
    "images": "none"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/ict-g10-s1.json",
+   "count": 5,
+   "v": 1,
+   "bytes": 43198,
+   "sha256": "f1ffd24424368a34c796fb8ce2fb22c3eb09c2a0d0c5d3ef53c138fb3c3fd401",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف الحادي عشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/ict-g11-s1.json",
+   "count": 14,
+   "v": 1,
+   "bytes": 107515,
+   "sha256": "b368b8cc66f31a81c4d945fa14c350e340f11e97dd27727c55243060cca93b96",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف الحادي عشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/ict-g11-s2.json",
+   "count": 11,
+   "v": 1,
+   "bytes": 75286,
+   "sha256": "f73ab6441dc82d8cc610b1f0e3e6a319d81a2992beb743a86ebdcc9c66698ca6",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف الثاني عشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/ict-g12-s1.json",
+   "count": 9,
+   "v": 1,
+   "bytes": 77565,
+   "sha256": "4227698a279f4572387aecaa2c499405263741dce8995c921c226296b4fabed2",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف الثاني عشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/ict-g12-s2.json",
+   "count": 13,
+   "v": 1,
+   "bytes": 133287,
+   "sha256": "acd33923bf8e2e0d47642edfe4a2f6a8c9860eaad3ab64f8ece76b18d826c5f1",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف الخامس",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/ict-g5-s1.json",
+   "count": 11,
+   "v": 1,
+   "bytes": 91468,
+   "sha256": "b3fe71337dac0193b7eb21e828947a4c320220406688e961c73c766e517645a5",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف الخامس",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/ict-g5-s2.json",
+   "count": 11,
+   "v": 1,
+   "bytes": 143947,
+   "sha256": "0d6f57a8a3e98833bf05f4e4247e14675c5a4ab6e625a6491003639199037760",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف السادس",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/ict-g6-s1.json",
+   "count": 13,
+   "v": 1,
+   "bytes": 165411,
+   "sha256": "aa348dea1a8dc14d82eeb43f06462bc4a57630f7e3683f1a276c95a05f2a06d4",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف السادس",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/ict-g6-s2.json",
+   "count": 13,
+   "v": 1,
+   "bytes": 123957,
+   "sha256": "79adfcf9b5c84b3b745b950b4adbce748df8421b6af0b6b2a85c2e7e8cdd5716",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف السابع",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/ict-g7-s1.json",
+   "count": 9,
+   "v": 1,
+   "bytes": 73660,
+   "sha256": "6f7c936cb4acb433ce27ec15ee9751a1a07535bc36c66e1ce57068b3d53f70d0",
+   "reviewed": true,
+   "images": "none"
   }
  ]
 }
