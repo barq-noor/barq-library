@@ -1975,6 +1975,54 @@
    "sha256": "2e0a0e8c98b94e3a113a9d4a0c9e7940523a6eb5fc71aa6b137ffb3906baf14c",
    "reviewed": true,
    "images": "none"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف الحادي عشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/sports-g11-s1.json",
+   "count": 13,
+   "v": 1,
+   "bytes": 140194,
+   "sha256": "7c5c2b472682efa3f102ab6c7d5b5f47680c62d8e68b48ef5a8bf1d407141a15",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف الحادي عشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/sports-g11-s2.json",
+   "count": 12,
+   "v": 1,
+   "bytes": 122304,
+   "sha256": "28b65edb734fb9204f18e948164ece8d523f02f6db1a6d10776fc54a466784c0",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف الثاني عشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/sports-g12-s1.json",
+   "count": 12,
+   "v": 1,
+   "bytes": 104467,
+   "sha256": "7e81451cd5b3c32bb9cb6fa3df0a173c50c5fa501e38005b37af2defedd47a3d",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف الثاني عشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/sports-g12-s2.json",
+   "count": 13,
+   "v": 1,
+   "bytes": 107601,
+   "sha256": "efe0db88ee8ab3d60467e19394ced425a38f83a8420138a275b1534d4d979647",
+   "reviewed": true,
+   "images": "none"
   }
  ]
 }
