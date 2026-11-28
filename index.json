@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "edition": "clean",
- "updatedAt": "2026-11-28T14:47:53Z",
+ "updatedAt": "2026-11-28T14:48:42Z",
  "packs": [
   {
    "subject": "الأحياء",
@@ -593,10 +593,10 @@
    "grade": "الصف السادس",
    "semester": "الفصل الدراسي الثاني",
    "file": "packs/arabic-g6-s2.json",
-   "count": 49,
+   "count": 51,
    "v": 1,
-   "bytes": 262176,
-   "sha256": "a8d6ec4f0ca0d3da1b0d61631b364e78cb9dc75b54e721ffab6038559302f5f7",
+   "bytes": 270812,
+   "sha256": "3fa4b0d3a59065fe049824ac3d9a8a41b85d8b9958dccaa7eef1ce68cf657b73",
    "reviewed": true,
    "images": "none"
   },
@@ -631,8 +631,8 @@
    "file": "packs/arabic-g8-s1.json",
    "count": 27,
    "v": 1,
-   "bytes": 130890,
-   "sha256": "807b1f334bce3511067e1410756ece84c2af3990af57bd4ff5383865c27ea52e",
+   "bytes": 131026,
+   "sha256": "0cc936bfb0800dd3a496b8f8e0cd77b6c6d6a338448df4225f34792ebcb66feb",
    "reviewed": true,
    "images": "none"
   },
@@ -653,10 +653,10 @@
    "grade": "الصف التاسع",
    "semester": "الفصل الدراسي الأول",
    "file": "packs/arabic-g9-s1.json",
-   "count": 46,
+   "count": 47,
    "v": 1,
-   "bytes": 350637,
-   "sha256": "f38124c6968b7bad45fe197e7f31db76f7e9d8909880180f6ddfc3448d40e301",
+   "bytes": 354699,
+   "sha256": "c346da83860dc51e07c61ef839efe07037d9238c3848d0da2c905ee45c81bbda",
    "reviewed": true,
    "images": "none"
   },
@@ -665,10 +665,10 @@
    "grade": "الصف التاسع",
    "semester": "الفصل الدراسي الثاني",
    "file": "packs/arabic-g9-s2.json",
-   "count": 44,
+   "count": 45,
    "v": 1,
-   "bytes": 365262,
-   "sha256": "366779dec14ec21fe18fdfb24e84486e37f8727447e30f36346433aa402738aa",
+   "bytes": 368531,
+   "sha256": "564259e68b5d88e979c7337247d84323660b7405d58349939cbc6d7587f529ba",
    "reviewed": true,
    "images": "none"
   },
