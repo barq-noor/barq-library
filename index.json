@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "edition": "clean",
- "updatedAt": "2026-11-28T17:17:20Z",
+ "updatedAt": "2026-11-28T18:17:57Z",
  "packs": [
   {
    "subject": "الأحياء",
@@ -643,8 +643,8 @@
    "file": "packs/arabic-g8-s2.json",
    "count": 29,
    "v": 1,
-   "bytes": 187702,
-   "sha256": "8ec97e7ef5faeaf831da89a8e5908a53d79610eac1b0ace1c3c52dce186017ad",
+   "bytes": 208116,
+   "sha256": "c5fae9627b65ad79d5314366bf88f0ab8108eeb427b6dd22320893e4f58a325c",
    "reviewed": true,
    "images": "none"
   },
