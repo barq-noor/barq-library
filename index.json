@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "edition": "clean",
- "updatedAt": "2026-11-28T13:20:46Z",
+ "updatedAt": "2026-11-28T13:24:14Z",
  "packs": [
   {
    "subject": "الأحياء",
@@ -2129,6 +2129,18 @@
    "v": 1,
    "bytes": 85642,
    "sha256": "a5bc5d207a393b9e5a722d5459a1f5bf756d8c7376def6e901dd091c0720dd33",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "المهارات الموسيقية",
+   "grade": "الصف الثاني عشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/music-g12-s2.json",
+   "count": 12,
+   "v": 1,
+   "bytes": 81673,
+   "sha256": "25e87ff2315da9b95b04a16b0cb68e5d17a24bbcaf25fc7ec486a39d1251894b",
    "reviewed": true,
    "images": "none"
   }
