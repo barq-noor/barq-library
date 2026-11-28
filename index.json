@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "edition": "clean",
- "updatedAt": "2026-11-28T12:53:21Z",
+ "updatedAt": "2026-11-28T13:07:43Z",
  "packs": [
   {
    "subject": "الأحياء",
@@ -2093,6 +2093,18 @@
    "v": 1,
    "bytes": 73486,
    "sha256": "04e961305770c4764c5102af38ac245eedf6d81c3f177365fef6294a7e79c4c1",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "اللغة الإنجليزية",
+   "grade": "الصف التاسع",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/english-g9-s1.json",
+   "count": 49,
+   "v": 1,
+   "bytes": 212383,
+   "sha256": "1d74588225b2ece9c84a47dfe1c8b46abaf1b80f316aa3da81628be40db42d2f",
    "reviewed": true,
    "images": "none"
   }
