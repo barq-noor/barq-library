@@ -1531,6 +1531,126 @@
    "sha256": "3aa0f0c9c452e5305e813b9d0558838fcccaaaf90c99d6c8f2827e14f174a68d",
    "reviewed": true,
    "images": "none"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/lifeskills-g10-s1.json",
+   "count": 4,
+   "v": 1,
+   "bytes": 90583,
+   "sha256": "8a6c315846f08647e07be5cd78fface505ea478c5bf33ca0884379877e500378",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/lifeskills-g10-s2.json",
+   "count": 4,
+   "v": 1,
+   "bytes": 77017,
+   "sha256": "6ac4c6ef9ebc98c4d87363d077b8d2ef2750554bdbcb4202f8acd5ae7ee2fd24",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف الخامس",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/lifeskills-g5-s1.json",
+   "count": 4,
+   "v": 1,
+   "bytes": 50750,
+   "sha256": "2f44b43ecb73fcc347659201b928fb0d5e258dda693b5bdbaa7eeccb6fe55144",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف الخامس",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/lifeskills-g5-s2.json",
+   "count": 4,
+   "v": 1,
+   "bytes": 51564,
+   "sha256": "fabfed11e574933ed7fdad0b486358b79fc9d697e66559e360c2c7bce95c8b83",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف السادس",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/lifeskills-g6-s1.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 101129,
+   "sha256": "5974bfc5ccff8a8605438b294e5bd7baf48626aa46c85e89de529dd0d925aacb",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف السادس",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/lifeskills-g6-s2.json",
+   "count": 4,
+   "v": 1,
+   "bytes": 67046,
+   "sha256": "5c08ea7dc417bedf0e2cedb5ea37c1b3d52610dd17ce311a14e3ab9945048bd7",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف السابع",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/lifeskills-g7-s1.json",
+   "count": 5,
+   "v": 1,
+   "bytes": 119605,
+   "sha256": "a92b2f4a28a1d3a348f81530daee9e9db351d44241f64df49e3ee94d32ef268c",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف السابع",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/lifeskills-g7-s2.json",
+   "count": 4,
+   "v": 1,
+   "bytes": 69718,
+   "sha256": "61a9df9cffaeb5092fed4a91a836281e99663935a67817295c55d2ba4d41b7e7",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف الثامن",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/lifeskills-g8-s1.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 95960,
+   "sha256": "a5cad5b69cbd224cb815446c9268b433044e5a41635e116c430dc8f4cf4481b6",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف الثامن",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/lifeskills-g8-s2.json",
+   "count": 5,
+   "v": 1,
+   "bytes": 94012,
+   "sha256": "97ab567234ab2131597978788ed8a25cc39cf23bdd4b0df8e1788181286fc937",
+   "reviewed": true,
+   "images": "none"
   }
  ]
 }
