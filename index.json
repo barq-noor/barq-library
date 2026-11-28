@@ -2023,6 +2023,30 @@
    "sha256": "efe0db88ee8ab3d60467e19394ced425a38f83a8420138a275b1534d4d979647",
    "reviewed": true,
    "images": "none"
+  },
+  {
+   "subject": "الفنون التشكيلية",
+   "grade": "الصف الثاني عشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/art-g12-s1.json",
+   "count": 15,
+   "v": 1,
+   "bytes": 128309,
+   "sha256": "653d7438da71272fce3e11f3e972f24b8a6a6847c5faac2cf6077e7f06a1b991",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "الفنون التشكيلية",
+   "grade": "الصف الثاني عشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/art-g12-s2.json",
+   "count": 14,
+   "v": 1,
+   "bytes": 110853,
+   "sha256": "36c69ff951f6b004d3bfa2d055e3ad610d318299677c1254d163b9591dc84771",
+   "reviewed": true,
+   "images": "none"
   }
  ]
 }
