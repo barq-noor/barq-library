@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "edition": "clean",
- "updatedAt": "2026-11-28T14:48:42Z",
+ "updatedAt": "2026-11-28T15:20:34Z",
  "packs": [
   {
    "subject": "الأحياء",
@@ -428,10 +428,10 @@
    "grade": "الصف العاشر",
    "semester": "الفصل الدراسي الثاني",
    "file": "packs/arabic-g10-s2.json",
-   "count": 36,
+   "count": 38,
    "v": 1,
-   "bytes": 283983,
-   "sha256": "c65bb62a70053f9e3e74b89511a3759611836b8ba8a19d6138650040dca39285",
+   "bytes": 296726,
+   "sha256": "bbff112a7ec1530d795057610e36f1327852542babaa3aebc26bcf80b34d89b0",
    "reviewed": true,
    "images": "none"
   },
@@ -547,7 +547,7 @@
    "count": 33,
    "v": 1,
    "bytes": 232022,
-   "sha256": "e5dd39913300677e8e5c6efc1ab0117ebbb3f975b105ce57a36b66f6ca3aa4e9",
+   "sha256": "69f575f9dca03310d4e6698bba9c405f22ba45aae29123ddb8021cc109957715",
    "reviewed": true,
    "images": "none",
    "title": "المؤنس"
