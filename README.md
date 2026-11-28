@@ -1,7 +1,13 @@
 # Barq
 
-هذا المستودع العام يحوي صفحة الخصوصية فقط (privacy/) والرخصة. مكتبة الحزم ليست هنا. تُقدَّم الحزم عبر خادم التراخيص برمز تفعيل.
+مكتبة برق: تحضيرات جاهزة لإضافة «برق»، مخصصة لاستخدام المعلمين. المنشور هنا حاليًا مواد العلوم فقط (العلوم للصفوف 5 إلى 8، والأحياء والكيمياء والفيزياء للصفوف 9 إلى 12). النسخة بلا صور من كتب الوزارة: يُستبدل كل شكل بملاحظة «انظر الشكل في كتاب الطالب».
 
-This public repository holds only the privacy page and the license. The Barq pack library is not published here; packs are served to activated users through the license server.
+- `index.json`: الفهرس (مادة، صف، فصل، عدد الدروس، البصمة sha256).
+- `packs/`: حزمة لكل مادة وصف وفصل.
+- `privacy/`: صفحة الخصوصية.
+
+على المعلم مراجعة كل تحضير وتعديله بما يناسب صفه قبل الاستخدام.
+
+© 2026 Ahmed Az / مشروع برق. جميع الحقوق محفوظة. انظر ملف `LICENSE`.
 
 Privacy: https://barq-noor.github.io/barq-library/privacy/
