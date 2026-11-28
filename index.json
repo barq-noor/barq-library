@@ -2047,6 +2047,54 @@
    "sha256": "36c69ff951f6b004d3bfa2d055e3ad610d318299677c1254d163b9591dc84771",
    "reviewed": true,
    "images": "none"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف التاسع",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/lifeskills-g9-s1.json",
+   "count": 5,
+   "v": 1,
+   "bytes": 38329,
+   "sha256": "e916e7a88a7cef2bfc8a725608b065c1f382c9afe914f24cb74b9fc4180ca200",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "المهارات الحياتية",
+   "grade": "الصف التاسع",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/lifeskills-g9-s2.json",
+   "count": 7,
+   "v": 1,
+   "bytes": 54574,
+   "sha256": "10f9d01e362400355fcf2738572dfdb720b35f7357652f19b72344a42f60b66b",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "الدراسات الاجتماعية",
+   "grade": "الصف الثاني عشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/watani-g12-s1.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 87519,
+   "sha256": "a18e3693d560ed3bda393889d82bbe844b3fdb2e96cbb7d978993dfb5b8b9546",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "الدراسات الاجتماعية",
+   "grade": "الصف الثاني عشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/watani-g12-s2.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 73486,
+   "sha256": "04e961305770c4764c5102af38ac245eedf6d81c3f177365fef6294a7e79c4c1",
+   "reviewed": true,
+   "images": "none"
   }
  ]
 }
