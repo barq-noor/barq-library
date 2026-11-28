@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "edition": "clean",
- "updatedAt": "2026-11-28T11:50:08Z",
+ "updatedAt": "2026-11-28T12:49:12Z",
  "packs": [
   {
    "subject": "الأحياء",
@@ -1949,6 +1949,18 @@
    "v": 1,
    "bytes": 158332,
    "sha256": "3c811b7c3ac587dee7d041c86b12ff6c446475a501f2ae5bc4c74319ac11f3c8",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف الثامن",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/ict-g8-s1.json",
+   "count": 13,
+   "v": 1,
+   "bytes": 117590,
+   "sha256": "1a06a85e29298a57e050fcc68dcf58d1e7ecc4af0fc398416ec9e811fa11a2f1",
    "reviewed": true,
    "images": "none"
   }
