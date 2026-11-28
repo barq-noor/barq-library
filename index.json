@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "edition": "clean",
- "updatedAt": "2026-11-28T12:49:12Z",
+ "updatedAt": "2026-11-28T12:53:21Z",
  "packs": [
   {
    "subject": "الأحياء",
@@ -1961,6 +1961,18 @@
    "v": 1,
    "bytes": 117590,
    "sha256": "1a06a85e29298a57e050fcc68dcf58d1e7ecc4af0fc398416ec9e811fa11a2f1",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "اللغة الإنجليزية",
+   "grade": "الصف السادس",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/english-g6-s2.json",
+   "count": 42,
+   "v": 1,
+   "bytes": 224560,
+   "sha256": "2e0a0e8c98b94e3a113a9d4a0c9e7940523a6eb5fc71aa6b137ffb3906baf14c",
    "reviewed": true,
    "images": "none"
   }
