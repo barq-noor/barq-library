@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "edition": "clean",
- "updatedAt": "2026-11-28T09:24:49Z",
+ "updatedAt": "2026-11-28T11:50:08Z",
  "packs": [
   {
    "subject": "الأحياء",
@@ -1937,6 +1937,18 @@
    "v": 1,
    "bytes": 73660,
    "sha256": "6f7c936cb4acb433ce27ec15ee9751a1a07535bc36c66e1ce57068b3d53f70d0",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "تقنية المعلومات",
+   "grade": "الصف التاسع",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/ict-g9-s1.json",
+   "count": 10,
+   "v": 1,
+   "bytes": 158332,
+   "sha256": "3c811b7c3ac587dee7d041c86b12ff6c446475a501f2ae5bc4c74319ac11f3c8",
    "reviewed": true,
    "images": "none"
   }
