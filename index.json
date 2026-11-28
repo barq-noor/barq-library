@@ -1771,6 +1771,54 @@
    "sha256": "5dd31e95844db64b677894beb7165de651b8ed0f2059999af7a32510a82813b1",
    "reviewed": true,
    "images": "none"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/sports-g10-s1.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 61524,
+   "sha256": "b15a49d00f63ef9ffab8986fb084fd8566ff3704bdb525897c13063df57e91a6",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف العاشر",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/sports-g10-s2.json",
+   "count": 7,
+   "v": 1,
+   "bytes": 68568,
+   "sha256": "75ea14e1c964d08ce1a84a49ec2b126c1ac3deb3f3239076290cd0ef2335560a",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف التاسع",
+   "semester": "الفصل الدراسي الأول",
+   "file": "packs/sports-g9-s1.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 59882,
+   "sha256": "996a1903cd9c7501ceb3a2105ab9e2149d67a75d890c0f8b596125fd61eb212e",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "الرياضة المدرسية",
+   "grade": "الصف التاسع",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/sports-g9-s2.json",
+   "count": 6,
+   "v": 1,
+   "bytes": 56470,
+   "sha256": "e0f35aa38d29ce58f4d1e78ae11060179eaf12c997d90de74204b1702d50210d",
+   "reviewed": true,
+   "images": "none"
   }
  ]
 }
