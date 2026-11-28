@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "edition": "clean",
- "updatedAt": "2026-11-28T13:07:43Z",
+ "updatedAt": "2026-11-28T13:18:28Z",
  "packs": [
   {
    "subject": "الأحياء",
@@ -2105,6 +2105,18 @@
    "v": 1,
    "bytes": 212383,
    "sha256": "1d74588225b2ece9c84a47dfe1c8b46abaf1b80f316aa3da81628be40db42d2f",
+   "reviewed": true,
+   "images": "none"
+  },
+  {
+   "subject": "اللغة الإنجليزية",
+   "grade": "الصف السابع",
+   "semester": "الفصل الدراسي الثاني",
+   "file": "packs/english-g7-s2.json",
+   "count": 43,
+   "v": 1,
+   "bytes": 182846,
+   "sha256": "f2b5582c0c57daaa9a8e5022f94484cd29ba9805bc326303ed290f2ee09b3d4c",
    "reviewed": true,
    "images": "none"
   }
